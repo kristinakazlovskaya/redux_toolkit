@@ -1,0 +1,24 @@
+{
+  "name": "redux_toolkit",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "react-redux": "^7.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinakazlovskaya/redux_toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinakazlovskaya/redux_toolkit/issues"
+  },
+  "homepage": "https://github.com/kristinakazlovskaya/redux_toolkit#readme"
+}
